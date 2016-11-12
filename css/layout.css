@@ -411,7 +411,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: #ebeeee;
+   background: #EFEEEE;
    padding-top: 90px;
    padding-bottom: 60px;
 }
@@ -790,8 +790,8 @@ call-to-action .button {
 #contact {
    background: #191919;
    padding-top: 96px;
-   padding-bottom: 102px;
-   color: #636363;
+   padding-bottom: 20px;
+   color: #EBEEEE;
 }
 #contact .section-head { margin-bottom: 42px; }
 
@@ -815,6 +815,11 @@ call-to-action .button {
    text-align: left;
    float: left;
    color: #ebeeee;
+}
+
+#contact span {
+    font: 18px/36px 'opensans-light', sans-serif;
+   padding-right: 3%;
 }
 
 #contact h4 {
